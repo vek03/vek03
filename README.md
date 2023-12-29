@@ -2,8 +2,6 @@
     <h1>Victor Cardoso(Vek)</h1>
 </div>
 
-##
-
 ![snake-gif](https://github.com/vek03/vek03/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
