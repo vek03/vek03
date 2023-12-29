@@ -4,7 +4,7 @@
 
 ##
 
-![Snake animation](https://github.com/vek03/vek03/blob/output/github-contribution-grid-snake.svg)
+![snake-gif](https://github.com/vek03/vek03/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Victor%20Cardoso;Vek;Back-End%20Developer;18%20Years%20Old;Studying%20System%20Development&font=MonaSans&center=true&width=750&height=120&color=FFD700&vCenter=true&size=45%22">
