@@ -122,7 +122,7 @@
     <h3>Statistics</h3>
   <a href="#statistics">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vek03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&layout=compact&langs_count=7&theme=
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&layout=compact&langs_count=7&theme=dark
   </a>
 </div>
 
