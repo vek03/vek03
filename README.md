@@ -44,7 +44,7 @@
 ##
 
 <div align="center" style="text-align:center;">
-    <h3>Languages</h3>
+## 🖥️ Technologies
 
 <a href="#java" alt="Java" target="_blank">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
