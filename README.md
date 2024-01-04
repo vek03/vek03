@@ -1,6 +1,4 @@
-<div align="center">
-    <h1>Victor Cardoso(Vek)</h1>
-</div>
+# Victor Cardoso (Vek)
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Victor%20Cardoso;Vek;Back-End%20Developer;18%20Years%20Old;Studying%20System%20Development&font=MonaSans&center=true&width=750&height=120&color=FFD700&vCenter=true&size=45%22">
@@ -43,9 +41,9 @@
 
 ##
 
-<div align="center" style="text-align:center;">
-## 🖥️ Technologies
 
+## 🖥️ Technologies
+<div align="center" style="text-align:center;">
 <a href="#java" alt="Java" target="_blank">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </a>
