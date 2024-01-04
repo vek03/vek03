@@ -14,17 +14,9 @@
 
 
 ## Contact
-<a href="https://www.linkedin.com/in/victorncardoso" alt="Linkedin">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victornovaescardoso">
-    </a>
-    
-<a href="#@Vek_bonilha03" alt="Telegram" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
-    
-<a href="https://github.com/vek03/" alt="Github" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vek03/">
-    </a>
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)&nbsp;
+![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
 ##
@@ -53,34 +45,19 @@
 
 
 ## Prefers
-
-<a href="#windows" alt="Windows" target="_blank">
-  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
-</a>
-
-<a href="#apache" alt="Apache" target="_blank">
-  <img src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white">
-</a>
-
-<a href="#microsoftoffice" alt="Microsoft Office" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-</a>
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
+![Apache](https://img.shields.io/badge/Apache-05122A?style=flat&logo=apache)&nbsp;
+![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=windows)&nbsp;
 
 
 ##
 
 ## Games
-<a href="#playstation" alt="Playstation" target="_blank">
-  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
-</a>
+![PlayStation](https://img.shields.io/badge/-PlayStation-05122A?style=flat&logo=playstation)&nbsp;
 
-<a href="#xbox" alt="Xbox" target="_blank">
-  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
-</a>
+![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=windows)&nbsp;
 
-<a href="#steam" alt="Steam" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-</a>
+![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=windows)&nbsp;
 
 
 ##
