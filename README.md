@@ -38,45 +38,12 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)&nbsp;
-![Java](https://img.shields.io/badge/-C-05122A?style=flat&logo=java)&nbsp;
-![Python](https://img.shields.io/badge/-C-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C-05122A?style=flat&logo=c++)&nbsp;
-![PHP](https://img.shields.io/badge/-C-05122A?style=flat&logo=php)&nbsp;
-![Kotlin](https://img.shields.io/badge/-C-05122A?style=flat&logo=kotlin)&nbsp;
-
-![Laravel](https://img.shields.io/badge/-C-05122A?style=flat&logo=laravel)&nbsp;
-
-<a href="#java" alt="Java" target="_blank">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</a>
-
-<a href="#python" alt="Python" target="_blank">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</a>
-
-<a href="#html" alt="HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-
-<a href="#css" alt="CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</a>
-
-<a href="#c++" alt="C++" target="_blank">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</a>
-
-<a href="#php" alt="PHP" target="_blank">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</a>
-
-<a href="#kotlin" alt="Kotlin" target="_blank">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-</a>
-
-<a href="#bootstrap" alt="Bootstrap" target="_blank">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</a>
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 
 
 ##
