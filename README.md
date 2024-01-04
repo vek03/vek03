@@ -48,7 +48,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-05122A?style=flat&logo=apache)&nbsp;
 ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=windows)&nbsp;
-![Packet Tracer](https://img.shields.io/badge/-PacketTracer-05122A?style=flat&logo=java)&nbsp;
+![Packet Tracer](https://img.shields.io/badge/-PacketTracer-05122A?style=flat&logo=cisco)&nbsp;
 
 
 
