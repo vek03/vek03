@@ -12,8 +12,9 @@
 
 ##
 
+
+## Contact
 <div align="center" style="text-align:center;">
-    <h3>Contact</h3>
     <a href="https://www.instagram.com/03__vek/" alt="Instagram">
           <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/03__vek">
     </a>
@@ -38,6 +39,7 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vek03/">
     </a>
 </div>
+
 
 ##
 
@@ -77,10 +79,12 @@
 </a>
 </div>
 
+
 ##
 
+
+## Prefers
 <div align="center" style="text-align:center;">
-    <h3>Prefers</h3>
 
 <a href="#windows" alt="Windows" target="_blank">
   <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
@@ -97,9 +101,9 @@
 
 ##
 
-<div align="center" style="text-align:center;">
-    <h3>Games</h3>
+## Games
 
+<div align="center" style="text-align:center;">
 <a href="#playstation" alt="Playstation" target="_blank">
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
 </a>
@@ -116,8 +120,8 @@
 ##
 
 <!-- Estatisticas -->
+## Statistics
 <div align="center">
-    <h3>Statistics</h3>
   <a href="#statistics">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vek03&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=34b1eb&title_color=34EBC9&text_color=ffffff"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&layout=compact&langs_count=7&theme=dark&title_color=34EBC9"/>
