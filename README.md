@@ -19,7 +19,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-##
 
 
 ## 🖥️ Technologies
@@ -41,7 +40,6 @@
 ![Jetpack Compose](https://img.shields.io/badge/-JetpackCompose-05122A?style=flat&logo=JetpackCompose)&nbsp;
 
 
-##
 
 
 ## Prefers
@@ -50,7 +48,7 @@
 ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=windows)&nbsp;
 
 
-##
+
 
 ## Games
 ![PlayStation](https://img.shields.io/badge/-PlayStation-05122A?style=flat&logo=playstation)&nbsp;
@@ -58,7 +56,7 @@
 ![Steam](https://img.shields.io/badge/-Steam-05122A?style=flat&logo=steam)&nbsp;
 
 
-##
+
 
 <!-- Estatisticas -->
 ## Statistics
