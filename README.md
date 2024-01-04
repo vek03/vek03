@@ -31,6 +31,21 @@
 
 
 ## 🖥️ Technologies
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)&nbsp;
+![Java](https://img.shields.io/badge/-C-05122A?style=flat&logo=java)&nbsp;
+![Python](https://img.shields.io/badge/-C-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C-05122A?style=flat&logo=c++)&nbsp;
+![PHP](https://img.shields.io/badge/-C-05122A?style=flat&logo=php)&nbsp;
+![Kotlin](https://img.shields.io/badge/-C-05122A?style=flat&logo=kotlin)&nbsp;
+
+![Laravel](https://img.shields.io/badge/-C-05122A?style=flat&logo=laravel)&nbsp;
+
 <a href="#java" alt="Java" target="_blank">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </a>
