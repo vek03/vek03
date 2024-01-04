@@ -1,8 +1,8 @@
 # Victor Cardoso (Vek)
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Victor%20Cardoso;Vek;Back-End%20Developer;18%20Years%20Old;Studying%20System%20Development&font=MonaSans&center=true&width=750&height=120&color=FFD700&vCenter=true&size=45%22">
-</div>
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Victor%20Cardoso;Vek;Back-End%20Developer;18%20Years%20Old;Studying%20System%20Development&font=MonaSans&center=true&width=750&height=120&color=FFD700&vCenter=true&size=45%22">
+
 
 ##
 
@@ -14,8 +14,7 @@
 
 
 ## Contact
-<div align="center" style="text-align:center;">
-    <a href="https://www.instagram.com/03__vek/" alt="Instagram">
+<a href="https://www.instagram.com/03__vek/" alt="Instagram">
           <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/03__vek">
     </a>
 
@@ -38,14 +37,12 @@
 <a href="https://github.com/vek03/" alt="Github" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vek03/">
     </a>
-</div>
 
 
 ##
 
 
 ## 🖥️ Technologies
-<div align="center" style="text-align:center;">
 <a href="#java" alt="Java" target="_blank">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </a>
@@ -77,14 +74,12 @@
 <a href="#bootstrap" alt="Bootstrap" target="_blank">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </a>
-</div>
 
 
 ##
 
 
 ## Prefers
-<div align="center" style="text-align:center;">
 
 <a href="#windows" alt="Windows" target="_blank">
   <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
@@ -97,13 +92,11 @@
 <a href="#microsoftoffice" alt="Microsoft Office" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </a>
-</div>
+
 
 ##
 
 ## Games
-
-<div align="center" style="text-align:center;">
 <a href="#playstation" alt="Playstation" target="_blank">
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
 </a>
@@ -115,18 +108,16 @@
 <a href="#steam" alt="Steam" target="_blank">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
-</div>
+
 
 ##
 
 <!-- Estatisticas -->
 ## Statistics
-<div align="center">
   <a href="#statistics">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vek03&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=34b1eb&title_color=34EBC9&text_color=ffffff"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vek03&layout=compact&langs_count=7&theme=dark&title_color=34EBC9"/>
   </a>
-</div>
 
 <!--
 - 🔭 I’m currently working on ...
