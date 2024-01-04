@@ -46,15 +46,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-05122A?style=flat&logo=apache)&nbsp;
 ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=windows)&nbsp;
-![Packet Tracer](https://img.shields.io/badge/-Packet-Tracer-05122A?style=flat&logo=cisco)&nbsp;
-
-
-
-
-## Games
-![PlayStation](https://img.shields.io/badge/-PlayStation-05122A?style=flat&logo=playstation)&nbsp;
-![Xbox](https://img.shields.io/badge/-Xbox-05122A?style=flat&logo=xbox)&nbsp;
-![Steam](https://img.shields.io/badge/-Steam-05122A?style=flat&logo=steam)&nbsp;
+![Packet Tracer](https://img.shields.io/badge/-Packet-Tracer-05122A?style=flat&logo=packecttracer)&nbsp;
 
 
 
