@@ -54,10 +54,8 @@
 
 ## Games
 ![PlayStation](https://img.shields.io/badge/-PlayStation-05122A?style=flat&logo=playstation)&nbsp;
-
-![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=windows)&nbsp;
-
-![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=windows)&nbsp;
+![Xbox](https://img.shields.io/badge/-Xbox-05122A?style=flat&logo=xbox)&nbsp;
+![Steam](https://img.shields.io/badge/-Steam-05122A?style=flat&logo=steam)&nbsp;
 
 
 ##
