@@ -36,6 +36,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQL-Server-05122A?style=flat&logo=java)&nbsp;
 
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
@@ -47,7 +48,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-05122A?style=flat&logo=apache)&nbsp;
 ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=windows)&nbsp;
-![Packet Tracer](https://img.shields.io/badge/-Packet-Tracer-05122A?style=flat&logo=)&nbsp;
+![Packet Tracer](https://img.shields.io/badge/-Packet-Tracer-05122A?style=flat&logo=java)&nbsp;
 
 
 
