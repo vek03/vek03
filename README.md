@@ -29,6 +29,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
+##
+
 ### Languages
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
@@ -38,17 +40,23 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
 
+##
+
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)&nbsp;
 ![Jetpack Compose](https://img.shields.io/badge/-JetpackCompose-05122A?style=flat&logo=JetpackCompose)&nbsp;
 
+##
+
 ### Softwares
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-05122A?style=flat&logo=apache)&nbsp;
 ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=windows)&nbsp;
 ![Packet Tracer](https://img.shields.io/badge/-PacketTracer-05122A?style=flat&logo=cisco)&nbsp;
+
+##
 
 ### Extras
 ![UML](https://img.shields.io/badge/-UML-05122A?style=flat&logo=uml)&nbsp;
