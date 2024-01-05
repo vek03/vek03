@@ -50,7 +50,11 @@
 ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=windows)&nbsp;
 ![Packet Tracer](https://img.shields.io/badge/-PacketTracer-05122A?style=flat&logo=cisco)&nbsp;
 
-
+### Extras
+![UML](https://img.shields.io/badge/-UML-05122A?style=flat&logo=uml)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=espressif)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 
 <!-- Estatisticas -->
