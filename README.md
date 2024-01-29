@@ -17,6 +17,8 @@
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)&nbsp;
 ![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GMail](https://img.shields.io/badge/-GMail-05122A?style=flat&logo=gmail)&nbsp;
+![Outlook](https://img.shields.io/badge/-Outlook-05122A?style=flat&logo=outlook)&nbsp;
 
 
 
