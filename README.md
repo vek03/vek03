@@ -1,7 +1,7 @@
 # Victor Cardoso (Vek) 🧑🏻‍💻
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Victor%20Cardoso;Vek;Back-End%20Developer;18%20Years%20Old;Studying%20System%20Development&font=MonaSans&center=true&width=750&height=120&color=FFD700&vCenter=true&size=45%22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Victor%20Cardoso;Vek;Back-End%20Developer;19%20Years%20Old;Studying%20System%20Development&font=MonaSans&center=true&width=750&height=120&color=FFD700&vCenter=true&size=45%22">
 
 
 ##
