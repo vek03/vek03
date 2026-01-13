@@ -74,12 +74,12 @@ const victor = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=for-the-badge&logo=graylog&logoColor=white)
 
 ### **Metodologias & Conceitos** 📚
 ![Clean Code](https://img.shields.io/badge/Clean%20Code-000000?style=for-the-badge&logo=code&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-FFD700?style=for-the-badge&logo=code&logoColor=black)
 ![POO](https://img.shields.io/badge/POO-FF6B35?style=for-the-badge&logo=code&logoColor=white)
-![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=for-the-badge&logo=graylog&logoColor=white)
 
 </div>
 
